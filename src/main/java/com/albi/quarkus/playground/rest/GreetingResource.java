@@ -1,4 +1,4 @@
-package com.albi.quarkus.playground;
+package com.albi.quarkus.playground.rest;
 
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 
